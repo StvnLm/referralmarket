@@ -1,0 +1,10 @@
+.iGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 3fr);
+    grid-gap: 1rem;
+    margin: 1rem 0;
+}
+
+body {
+  background-color: whitesmoke;
+}
